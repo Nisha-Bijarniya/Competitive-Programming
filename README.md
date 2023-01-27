@@ -1,1 +1,1 @@
-# Competitive-Programming
+# week1-DP5-CipherSchools
